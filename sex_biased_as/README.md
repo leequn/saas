@@ -1,1 +1,2 @@
-
+- raw_as_fasta  extract alternative splicing sites (±2bp)
+- similarity  calculate splicing sites' frequency
