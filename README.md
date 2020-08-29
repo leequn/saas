@@ -1,6 +1,6 @@
 # SAAS---Sex-associated Alternative Splicing
 ## Preparing
-Folder **sex_biased_as** contains splice sequence similarity scripts and raw sequences files
+Folder **sex_biased_as** contains splice sequence similarity scripts and raw sequences files <br>
 Other files are data analysis scripts of SAAS database
 **you can process your data with this script, here we provide a demo for users**<br>
 **Notes: you can download this script and run it in your computer(need to download gtf/gff files. [Mus_musculus](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz))**
