@@ -1,3 +1,3 @@
 - **raw_as_fasta**：  extract alternative splicing sites (±2bp)
-- **raw_as_fasta**：  extract alternative splicing sites (±2bp)
+- **raw_splicing_files**：  raw splcing files
 - **similarity**：  calculate splicing sites' frequency
